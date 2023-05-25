@@ -1,1 +1,2 @@
-# project-logos
+# project-icons
+
